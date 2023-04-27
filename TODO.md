@@ -4,11 +4,11 @@ This is the checklist of tasks to make a good readme
 
 ## Making a good readme
 - [x] Project Title
-    - [ ] Description
-    - [ ] Getting Started
+    - [x] Description
+    - [x] Getting Started
         - [x] Prerequisites
-        - [ ] Installing
+        - [x] Installing
     - [x] Deployment
-    - [ ] Built With
+    - [x] Built With
     - [x] Autors
-    - [ ] License
+    - [x] License 
